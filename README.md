@@ -50,7 +50,7 @@ The dashboard is designed for top-down analysis, guiding a leader from a high-le
 ### 1. The 10-Second Health Check: The KPI Card
 The journey begins with the main KPI card, which provides an instant summary of overall performance for the selected scope.
 
-![KPI Card](assets/kpi_card.png)
+<p align="center"> <img src="assets/kpi_card.png" width="40%"> </p>
 
 *   **`Total Sales`:** The absolute revenue number.
 *   **`vs Target`:** The most important metric—the percentage difference between current sales and the target.
@@ -59,7 +59,7 @@ The journey begins with the main KPI card, which provides an instant summary of 
 ### 2. The Strategic "Race" Against Goals: Cumulative Trends
 The three area charts provide a rich, historical narrative of performance throughout the selected time frame.
 
-![Cumulative Charts](assets/cumulative_charts.png)
+<p align="center"> <img src="assets/cumulative_charts.png" width="50%"> </p>
 
 *   **`Performance vs Target`:** This chart visualizes the "race" against the goal, showing `Actual Sales` (green area) tracking against the `Target` (yellow line).
 *   **`Performance vs Target Different`:** This chart **isolates the gap** from the chart above, making the dollar amount of the deficit or surplus tangible and easy to track over time.
@@ -68,7 +68,7 @@ The three area charts provide a rich, historical narrative of performance throug
 ### 3. The Daily Pulse & Granular Breakdown
 The final section allows a manager to diagnose the consistency of performance and pinpoint specific problem areas.
 
-![Daily Chart and Table](assets/daily_chart_and_table.png)
+<p align="center"> <img src="assets/daily_chart_and_table.png" width="50%"> </p>
 
 *   **`Daily Performance`:** This chart compares daily sales against the daily allocated target. It helps answer, "Are we performing consistently, or are we relying on a few great days to save the month?"
 *   **`Store Performance`:** After identifying a trend at the regional level (using the interactive map), this table provides the final layer of detail, showing city-level performance and year-over-year growth to identify exactly where action is needed.
@@ -90,7 +90,6 @@ The final section allows a manager to diagnose the consistency of performance an
 │   ├── 01_Business_Context.md
 │   ├── 02_Analytical_Approach.md
 │   └── 03_Data_Model_and_DAX.md
-├── 
 └── README.md
 ```
 
@@ -101,8 +100,3 @@ The final section allows a manager to diagnose the consistency of performance an
     *   Click the "Live Dashboard" badge at the top of this page or go directly to: [Live Tracker Demo](https://tinyurl.com/53chuyna)
 2.  **Review the Documentation:**
     *   For a deeper understanding of the business logic and technical implementation, review the detailed markdown files in the `docs/` folder.
-```
-
--
-
-
