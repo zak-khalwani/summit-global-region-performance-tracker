@@ -50,7 +50,7 @@ The dashboard is designed for top-down analysis, guiding a leader from a high-le
 ### 1. The 10-Second Health Check: The KPI Card
 The journey begins with the main KPI card, which provides an instant summary of overall performance for the selected scope.
 
-<p align="center"> <img src="assets/kpi_card.png" width="40%"> </p>
+<p align="center"> <img src="assets/kpi_card.png" width="45%"> </p>
 
 *   **`Total Sales`:** The absolute revenue number.
 *   **`vs Target`:** The most important metric—the percentage difference between current sales and the target.
